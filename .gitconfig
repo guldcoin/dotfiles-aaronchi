@@ -1,0 +1,8 @@
+[user]
+	username = aaronchi
+	name = Aaron Eisenberger
+	location = Santa Monica, CA
+[commit]
+	gpgsign = true
+[aliases]
+	github = aaronchi
